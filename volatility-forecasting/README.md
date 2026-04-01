@@ -36,7 +36,7 @@ This repository contains a modular implementation of an ML + GARCH-enhanced Mont
 
    Optional overrides:
 
-   - `TICKER` (default `AAPL`)
+   - `TICKER` (default `NVDA`)
    - `DAYS_TO_FETCH` (default `730`)
    - `DAYS_TO_SIMULATE` (default `30`)
    - `NUM_SIMULATIONS` (default `10000`)
@@ -47,6 +47,22 @@ This repository contains a modular implementation of an ML + GARCH-enhanced Mont
 ```bash
 python main.py
 ```
+
+## Output
+
+The system generates:
+- **Console output**: Comprehensive analysis with model performance, risk metrics comparison, and statistical summaries
+- **Visualization**: Monte Carlo simulation comparison plot saved to `output/` directory
+- **Risk metrics**: VaR, expected returns, volatility estimates, and probability of profit for all three simulation methods
+
+## Features
+
+- **Data Fetching**: Polygon.io API integration for high-quality financial data
+- **Feature Engineering**: Technical indicators (MA, momentum, Bollinger Bands, volatility ratios)
+- **ML Modeling**: Ensemble of Random Forest, Gradient Boosting, and Ridge regression
+- **GARCH Volatility**: Advanced volatility forecasting using GARCH(1,1) model
+- **Monte Carlo Simulation**: Three simulation methods (Traditional, ML-enhanced, ML+GARCH)
+- **Risk Analysis**: Comprehensive risk metrics including VaR and profit probabilities
 
 Optional environment variables:
 - `OUTPUT_DIR` (default `output`)
