@@ -2,17 +2,17 @@
 
 A comprehensive machine learning portfolio showcasing financial modeling, quantitative analysis, and algorithmic trading strategies. Built for DALIS, this repository demonstrates expertise in data-driven finance through multiple interconnected projects.
 
-## � Team
+## Team
 
 This portfolio was developed collaboratively by:
 
 **Portfolio Managers:**
-- [Your Name] - Lead Portfolio Manager & ML Engineer
+- John Victor ([john.victor@dal.ca](mailto:john.victor@dal.ca))- Portfolio Manager
 - Ibaad Hemani ([ipadhemani@gmail.com](mailto:ipadhemani@gmail.com)) - Portfolio Manager
 
 **Analysts:**
-- Sarah Finkle ([sarahfinkle@dal.ca](mailto:sarahfinkle@dal.ca)) - Quantitative Analyst
-- Apaar ([apaar.nagi@dal.ca](mailto:apaar.nagi@dal.ca)) - Data Analyst
+- Sarah Finkle ([sarahfinkle@dal.ca](mailto:sarahfinkle@dal.ca)) - Senior Analyst
+- Apaar ([apaar.nagi@dal.ca](mailto:apaar.nagi@dal.ca)) - Junior Analyst
 
 *Special thanks to the entire team for their contributions to the ML models, data analysis, and project architecture!*
 
