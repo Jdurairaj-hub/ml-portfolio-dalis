@@ -1,0 +1,35 @@
+# Environment variables
+.env
+
+# Cache directories (generated data)
+cache/
+**/cache/
+
+# Output directories (generated results)
+output/
+**/output/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp

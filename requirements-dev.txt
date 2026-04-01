@@ -1,0 +1,14 @@
+# Development dependencies for code quality and testing
+# Install with: pip install -r requirements-dev.txt
+
+# Code formatting
+black>=23.0.0
+
+# Linting and style checking
+flake8>=6.0.0
+
+# Type checking (optional)
+# mypy>=1.0.0
+
+# Testing framework (optional)
+# pytest>=7.0.0
