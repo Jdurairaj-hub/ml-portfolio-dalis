@@ -102,7 +102,7 @@ This repository combines classical volatility estimation with machine learning (
 
 ## Visual results (example)
 
-![Monte Carlo Simulation Comparison: NVDA](output/monte_carlo_NVDA_20260328_115505.png)
+![Monte Carlo Simulation Comparison: NVDA](monte_carlo_NVDA_sample_output.png)
 
 > Tip: Run `python main.py` to generate `.png` output automatically, then update the image path if your file is saved elsewhere.
 
