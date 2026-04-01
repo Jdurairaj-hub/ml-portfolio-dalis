@@ -2,7 +2,21 @@
 
 A comprehensive machine learning portfolio showcasing financial modeling, quantitative analysis, and algorithmic trading strategies. Built for DALIS, this repository demonstrates expertise in data-driven finance through multiple interconnected projects.
 
-## 📊 Projects Overview
+## � Team
+
+This portfolio was developed collaboratively by:
+
+**Portfolio Managers:**
+- [Your Name] - Lead Portfolio Manager & ML Engineer
+- Ibaad Hemani ([ipadhemani@gmail.com](mailto:ipadhemani@gmail.com)) - Portfolio Manager
+
+**Analysts:**
+- Sarah Finkle ([sarahfinkle@dal.ca](mailto:sarahfinkle@dal.ca)) - Quantitative Analyst
+- Apaar ([apaar.nagi@dal.ca](mailto:apaar.nagi@dal.ca)) - Data Analyst
+
+*Special thanks to the entire team for their contributions to the ML models, data analysis, and project architecture!*
+
+## �📊 Projects Overview
 
 ### 1. Asset Correlation Analysis
 **Location:** `asset-correlation-analysis/`
@@ -149,7 +163,8 @@ This portfolio maintains high code quality standards:
 
 This is a portfolio project. For improvements or questions, please open an issue or submit a pull request.
 
-## 📄 License
+
+## �📄 License
 
 [Add your license here - MIT, Apache 2.0, etc.]
 
