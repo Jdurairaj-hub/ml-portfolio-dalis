@@ -13,6 +13,7 @@ This portfolio was developed collaboratively by:
 **Analysts:**
 - Sarah Finkle ([sarahfinkle@dal.ca](mailto:sarahfinkle@dal.ca)) - Senior Analyst
 - Apaar ([apaar.nagi@dal.ca](mailto:apaar.nagi@dal.ca)) - Junior Analyst
+- Marko Dimitrijevic ([pn564459@dal.ca](mailto:pn564459@dal.ca)) - Junior Analyst
 
 *Special thanks to the entire team for their contributions to the ML models, data analysis, and project architecture!*
 
