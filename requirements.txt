@@ -30,3 +30,7 @@ jupyter>=1.0.0
 
 # Additional utilities
 httpx>=0.24.0
+
+# Documentation
+mkdocs>=1.4.0
+mkdocs-material>=9.0.0

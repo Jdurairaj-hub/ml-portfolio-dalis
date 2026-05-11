@@ -1,0 +1,63 @@
+site_name: ML Portfolio - DALIS
+site_description: A professional machine learning and quantitative finance portfolio website built with MkDocs Material.
+site_author: DALIS ML Portfolio Team
+site_url: https://jdurairaj-hub.github.io/ml-portfolio-dalis/
+repo_url: https://github.com/Jdurairaj-hub/ml-portfolio-dalis
+repo_name: Jdurairaj-hub/ml-portfolio-dalis
+strict: false
+theme:
+  name: material
+  language: en
+  palette:
+    scheme: slate
+    primary: teal
+    accent: cyan
+  font:
+    text: Roboto
+    code: Roboto Mono
+  features:
+    - navigation.instant
+    - navigation.top
+    - navigation.tabs
+    - content.code.copy
+    - header.autohide
+  icon:
+    repo: fontawesome/brands/github
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - pymdownx.arithmatex
+  - pymdownx.betterem
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist
+plugins:
+  - search
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/Jdurairaj-hub/ml-portfolio-dalis
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/jdurairaj/
+nav:
+  - Home: index.md
+  - Portfolio Overview: portfolio-overview.md
+  - Time Series & Forecasting: time-series-forecasting.md
+  - Factor Modeling: factor-modeling.md
+  - Backtesting: backtesting.md
+  - Quantitative Research: quantitative-research.md
+  - Machine Learning Models: machine-learning-models.md
+  - Performance Metrics: performance-metrics.md
+  - Future Improvements: future-improvements.md
+  - Deployment: deployment.md
+extra_css: []
+extra_javascript: []
+
+site_author: DALIS ML Portfolio Team
+edit_uri: edit/main/docs/
+
