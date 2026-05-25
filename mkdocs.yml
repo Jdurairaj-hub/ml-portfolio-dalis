@@ -37,6 +37,8 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.tasklist
 plugins:
+  - mkdocs-jupyter:
+      ignore_h1_titles: True
   - search
 extra:
   social:
@@ -52,6 +54,7 @@ nav:
   - Backtesting: backtesting.md
   - Quantitative Research: quantitative-research.md
   - Machine Learning Models: machine-learning-models.md
+  - ML Trading Strategy Notebook: ML_Simple_LongFlat_SPY.ipynb
   - Performance Metrics: performance-metrics.md
   - Future Improvements: future-improvements.md
   - Deployment: deployment.md
