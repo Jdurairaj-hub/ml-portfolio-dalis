@@ -8,7 +8,7 @@ This portfolio was developed collaboratively by:
 
 **Portfolio Managers:**
 - John Victor ([john.victor@dal.ca](mailto:john.victor@dal.ca))- Portfolio Manager
-- Ibaad Hemani ([ipadhemani@gmail.com](mailto:ipadhemani@gmail.com)) - Portfolio Manager
+- Ibaad Hemani ([ibaadhemani@gmail.com](mailto:ibaadhemani@gmail.com)) - Portfolio Manager
 
 **Analysts:**
 - Sarah Finkle ([sarahfinkle@dal.ca](mailto:sarahfinkle@dal.ca)) - Senior Analyst
