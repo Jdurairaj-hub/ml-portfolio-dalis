@@ -1,4 +1,4 @@
-# ML Portfolio - DALIS
+# ML Portfolio - DALIS 2025-26
 
 A comprehensive machine learning portfolio showcasing financial modeling, quantitative analysis, and algorithmic trading strategies. Built for DALIS, this repository demonstrates expertise in data-driven finance through multiple interconnected projects.
 
